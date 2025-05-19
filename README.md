@@ -23,8 +23,8 @@ Cette API permet d'analyser automatiquement le sentiment des commentaires utilis
 1. Cloner le dépôt :
 
    ```
-   git clone https://github.com/votre-utilisateur/sentiment-api.git
-   cd sentiment-api
+   git clone https://github.com/votre-utilisateur/SentiScopeProduct.git
+   cd SentiScopeProduct
    ```
 
 2. Créer un environnement virtuel (recommandé) :
@@ -32,7 +32,7 @@ Cette API permet d'analyser automatiquement le sentiment des commentaires utilis
    ```
    python -m venv venv
    Sur linux : source venv/bin/activate
-   Sur Windows : venv\Scripts\activate
+   Sur Windows : .\venv\Scripts\activate
    ```
 
 3. Installer les dépendances :
