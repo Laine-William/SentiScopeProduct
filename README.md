@@ -18,6 +18,10 @@ Cette API permet d'analyser automatiquement le sentiment des commentaires utilis
 - SQLAlchemy (ORM)
 - SQLite (Base de données)
 
+## Gestion de projet
+
+[Laine-William/sentiment-api-ntlk](https://github.com/users/Laine-William/projects/1)
+
 ## Installation
 
 1. Cloner le dépôt :
