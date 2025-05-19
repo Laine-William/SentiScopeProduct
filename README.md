@@ -31,7 +31,8 @@ Cette API permet d'analyser automatiquement le sentiment des commentaires utilis
 
    ```
    python -m venv venv
-   source venv/bin/activate  # Sur Windows : venv\Scripts\activate
+   Sur linux : source venv/bin/activate
+   Sur Windows : venv\Scripts\activate
    ```
 
 3. Installer les dépendances :
