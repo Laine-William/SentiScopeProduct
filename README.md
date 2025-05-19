@@ -13,7 +13,7 @@ We use a KanbanBoard to manage the project of SentiScopeProduct, which's visible
 1. Cloner le dépôt :
 
    ```
-   git clone https://github.com/votre-utilisateur/sentiment-api.git
+   git clone https://github.com/Laine-William/SentiScopeProduct.git
    cd sentiment-api
    ```
 
