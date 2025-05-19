@@ -5,7 +5,7 @@ from typing import List
 from app.models.database import get_db
 from app.models.product import Product
 from app.models.review import Review
-from app.schemas import Review as ReviewSchema, ReviewCreate
+from app.schemas.schemas import Review as ReviewSchema, ReviewCreate
 from app.services.sentiment import analyze_sentiment
 
 router = APIRouter(

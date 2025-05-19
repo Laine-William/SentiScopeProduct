@@ -5,7 +5,7 @@ from typing import List
 from app.models.database import get_db
 from app.models.product import Product
 from app.models.review import Review
-from app.schemas import Product as ProductSchema, ProductCreate, SentimentSummary
+from app.schemas.schemas import Product as ProductSchema, ProductCreate, SentimentSummary
 
 router = APIRouter(
     prefix="/products",
