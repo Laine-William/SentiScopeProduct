@@ -22,7 +22,7 @@ Cette API permet d'analyser automatiquement le sentiment des commentaires utilis
 
 Gestion et répartition des tâches en équipe avec l'utilisation de la méthode "KANBAN"
 
-[Laine-William/sentiment-api-ntlk](https://github.com/users/Laine-William/projects/1)
+[Laine-William/SentiScopeProduct](https://github.com/users/Laine-William/projects/1)
 
 ## Installation
 
